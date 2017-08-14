@@ -14,7 +14,7 @@ The project targets to predict the tweets which refer to a disaster event using 
 
 Word embedding technique is used to encode words as real-valued vectors in a high dimensional space, where the similarity between words in terms of meaning translates to closeness in the vector space.
 
-The project combines LSTM model with Convolutional Neural Networks that excel at learning spatial relationships while dropout is used to reduce the overfitting.
+The project combines LSTM model with Convolutional Neural Networks that excel at learning spatial relationships while dropout is used to reduce the overfitting. The trained model produced 81% accuraccy.
 
 For the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysisDNN.ipynb).
 
