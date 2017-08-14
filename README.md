@@ -1,8 +1,8 @@
 # Projects
-## [Sentiment Analysis](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb)
-## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb)
+## [Sentiment Analysis](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb) (Data Science Project)
+## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb) (Data Science Project)
 [Study Report](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetectorReport.pdf)
-## [Internet Advertisements Predictor](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb)
+## [Internet Advertisements Predictor](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb) (Data Science Project)
 [Study Report](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictorReport.pdf)
 ## [YouTube-8M Video Understanding Video Multi-Label Classification using Deep Learning and Decision Trees Methods](https://github.com/ehabmohamed/projects/blob/master/MSDS/Data%20Science%20-%20Final%20Project%20Presentation.pdf) (MS in Data Science Final Project Presentation)
 The project aims to predict video label(s) using the YouTube-8M dataset by implementing both Deep Neural Networks (DNN) and Mixture of Experts (MoE), as well as, Extreme Gradient Boosting (XGB) with Binary Relevance transformation.
@@ -24,7 +24,7 @@ To decrease this gap, brands are required to penetrate these independent social 
 
 For the project's presentation [click here](https://github.com/ehabmohamed/projects/blob/master/MBA/MBA%20-%20Final%20Presentation.pdf).
 
-## [H&M Strategic Management Plan](https://github.com/ehabmohamed/projects/blob/master/MBA/H%26M%20Strategic%20Management%20Plan.pdf)
+## [H&M Strategic Management Plan](https://github.com/ehabmohamed/projects/blob/master/MBA/H%26M%20Strategic%20Management%20Plan.pdf) (Business Study)
 The study aims to:
 - Analyze H&M customer target, position and core value. 
 - Perform business audit to identify H&M’s operation model, activity system map, core activities associated with their costs and resources, strength and weakness, and strategic importance.
@@ -32,3 +32,12 @@ The study aims to:
 - Develop the management agenda to operate in a new location (Dubai Festival City Mall).
 
 For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/MBA/H%26M%20Strategic%20Management%20Plan.pdf).
+
+## [Country Risk Assessment for Construction Firms](https://github.com/ehabmohamed/projects/blob/master/MBA/Country%20Risk%20Assessment.pdf) (Business Study)
+The study aims to:
+- Assess the risk associated with operating a construction firm in Saudi Arabia, Bahrain, United Arab of Emirates. 
+- Identify economic, financial, and political risks for each country.
+-	Highlight risk ratings provided by the International Country Risk Guide (ICRG) for each country.
+-	Develop a risk register including the proposed mitigation action for each country.
+
+For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/MBA/Country%20Risk%20Assessment.pdf).
