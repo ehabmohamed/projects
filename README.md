@@ -8,6 +8,16 @@ The best score (Global Average Precision 0.809) was formed by averaging both the
 
 For the project's presentation [click here](https://github.com/ehabmohamed/projects/blob/master/MSDS/Data%20Science%20-%20Final%20Project%20Presentation.pdf).
 
+## [Sentiment Analysis using LSTM Recurrent Neural Networks](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysisDNN.ipynb)
+
+The project targets to predict the tweets which refer to a disaster event using LSTM Recurrent Neural Networks. The model considers the tweet's words as sequence of inputs over space or time and the task is to predict a category for the sequence.
+
+Word embedding technique is used to encode words as real-valued vectors in a high dimensional space, where the similarity between words in terms of meaning translates to closeness in the vector space.
+
+The project combines LSTM model with Convolutional Neural Networks that excel at learning spatial relationships while dropout is used to reduce the overfitting.
+
+For the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysisDNN.ipynb).
+
 ## [Sentiment Analysis using Bag-of-Words Approach](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb)
 
 The project targets to predict the tweets which refer to a disaster event. Bag-of-words for the tweets is created and words are converted to lemmas after removing any stop words. Then, a Multinomial Naive Bayes model is trained to perform 80% accuraccy.
