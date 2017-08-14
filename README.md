@@ -10,11 +10,7 @@ For the project's presentation [click here](https://github.com/ehabmohamed/proje
 
 ## [Sentiment Analysis using Bag-of-Words Approach](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb)
 
-The project targets to predict the tweets which refer to a disaster event.
-
-Bag-of-words for the tweets is created and words are converted to lemmas after removing any stop words.
-
-A Multinomial Naive Bayes model is then trained to perform 80% accuraccy.
+The project targets to predict the tweets which refer to a disaster event. Bag-of-words for the tweets is created and words are converted to lemmas after removing any stop words. Then, a Multinomial Naive Bayes model is trained to perform 80% accuraccy.
 
 For the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb).
 
