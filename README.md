@@ -24,3 +24,11 @@ To decrease this gap, brands are required to penetrate these independent social 
 
 For the project's presentation [click here](https://github.com/ehabmohamed/projects/blob/master/MBA/MBA%20-%20Final%20Presentation.pdf).
 
+## [H&M Strategic Management Plan](https://github.com/ehabmohamed/projects/blob/master/MBA/H%26M%20Strategic%20Management%20Plan.pdf)
+The study aims to:
+- Analyze H&M customer target, position and core value. 
+- Perform business audit to identify H&M’s operation model, activity system map, core activities associated with their costs and resources, strength and weakness, and strategic importance.
+- Identify H&M’s internal and external linkages.
+- Develop the management agenda to operate in a new location (Dubai Festival City Mall).
+
+For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/MBA/H%26M%20Strategic%20Management%20Plan.pdf).
