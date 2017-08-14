@@ -8,7 +8,15 @@ The best score (Global Average Precision 0.809) was formed by averaging both the
 
 For the project's presentation [click here](https://github.com/ehabmohamed/projects/blob/master/MSDS/Data%20Science%20-%20Final%20Project%20Presentation.pdf).
 
-## [Sentiment Analysis using Bage-of-Words Approach](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb)
+## [Sentiment Analysis using Bag-of-Words Approach](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb)
+
+The project targets to predict the tweets which refer to a disaster event.
+
+Bag-of-words for the tweets is created and words are converted to lemmas after removing any stop words.
+
+A Multinomial Naive Bayes model is then trained to perform 80% accuraccy.
+
+For the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb).
 
 ## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb)
 The project aims to automatically detect commercials in TV news videos.
