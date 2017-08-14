@@ -48,7 +48,7 @@ The performance results of both algorithms show a high prediction accuracy of 97
 
 For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb).
 
-## [Image classifier using DNN](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb)
+## [Image Classification using DNN](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb)
 
 The project aims to classify character images using Deep Neural Network.
 
