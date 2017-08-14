@@ -1,7 +1,17 @@
 # Projects
 ## [Sentiment Analysis](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb) (Data Science Project)
 ## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb) (Data Science Project)
-[Study Report](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetectorReport.pdf)
+The project aims to automatically detect commercials in TV news videos.
+
+Four supervised machine learning models are examined to predict whether a TV news video shot is a commercial or not. 
+
+The four algorithms are Logistic Regression, Neural Networks, Random Forests and Gradient Boosting Classifier.
+
+A set of news video shots is used for training and testing the machine learning models.
+
+The performance results of the Neural Network model show the highest prediction accuracy of 93.13%.
+
+For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetectorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb).
 ## [Internet Advertisements Prediction](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb) (Data Science Project)
 The project aims to recognize the advertisement images shown in web pages. Two supervised machine learning algorithms are used to predict whether the image shown in a web page is an advertisement or not.
 
@@ -11,7 +21,7 @@ A set of possible advertisements on internet pages is used for training and test
 
 The performance results of both algorithms show a high prediction accuracy of 97%.
 
-For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb)
+For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb).
 ## [YouTube-8M Video Understanding Video Multi-Label Classification using Deep Learning and Decision Trees Methods](https://github.com/ehabmohamed/projects/blob/master/MSDS/Data%20Science%20-%20Final%20Project%20Presentation.pdf) (MS in Data Science Final Project Presentation)
 The project aims to predict video label(s) using the YouTube-8M dataset by implementing both Deep Neural Networks (DNN) and Mixture of Experts (MoE), as well as, Extreme Gradient Boosting (XGB) with Binary Relevance transformation.
 
