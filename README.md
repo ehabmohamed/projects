@@ -24,7 +24,7 @@ The project targets to predict the tweets which refer to a disaster event. Bag-o
 
 For the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb).
 
-## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb)
+## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetector.ipynb)
 The project aims to automatically detect commercials in TV news videos.
 
 Four supervised machine learning models are examined to predict whether a TV news video shot is a commercial or not. 
@@ -35,7 +35,7 @@ A set of news video shots is used for training and testing the machine learning 
 
 The performance results of the Neural Network model show the highest prediction accuracy of 93.13%.
 
-For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetectorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb).
+For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetectorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetector.ipynb).
 
 ## [Internet Advertisements Prediction](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb)
 The project aims to recognize the advertisement images shown in web pages. Two supervised machine learning algorithms are used to predict whether the image shown in a web page is an advertisement or not.
@@ -47,6 +47,12 @@ A set of possible advertisements on internet pages is used for training and test
 The performance results of both algorithms show a high prediction accuracy of 97%.
 
 For the study's report [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictorReport.pdf), and for the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb).
+
+## [Image classifier using DNN](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb)
+
+The project aims to classify character images using Deep Neural Network.
+
+For the code notebook [click here](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb).
 
 # Business Studies
 ## [The role of Social Media in influencing consumer purchasing decision - Case Study of Automobile Industry in Saudi Arabia](https://github.com/ehabmohamed/projects/blob/master/MBA/MBA%20-%20Final%20Presentation.pdf) (MBA Final Project Presentation)
