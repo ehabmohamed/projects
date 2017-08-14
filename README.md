@@ -2,7 +2,7 @@
 ## [Sentiment Analysis](https://github.com/ehabmohamed/projects/blob/master/SentimentAnalysis/SentimentAnalysis.ipynb) (Data Science Project)
 ## [TV News Channel Commercial Detection](https://github.com/ehabmohamed/projects/blob/master/ImageClassifier/ImageClassifier.ipynb) (Data Science Project)
 [Study Report](https://github.com/ehabmohamed/projects/blob/master/TVCommercialDetector/TVCommercialDetectorReport.pdf)
-## [Internet Advertisements Predictor](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb) (Data Science Project)
+## [Internet Advertisements Prediction](https://github.com/ehabmohamed/projects/blob/master/InternetAdsPredictor/InternetAdsPredictor.ipynb) (Data Science Project)
 The project aims to recognize the advertisement images shown in web pages. Two supervised machine learning algorithms are used to predict whether the image shown in a web page is an advertisement or not.
 
 The two algorithms are Random Forests and Gradient Boosting Classifier.
