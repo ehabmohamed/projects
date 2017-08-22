@@ -1,5 +1,5 @@
 # Data Science Projects
-## [YouTube-8M Video Understanding Video Multi-Label Classification using Deep Learning and Decision Trees Methods](https://github.com/ehabmohamed/projects/blob/master/MSDS/Data%20Science%20-%20Final%20Project%20Presentation.pdf) (MS in Data Science Final Project Presentation)
+## [YouTube-8M Video Understanding - Video Multi-Label Classification using Deep Learning and Decision Trees Methods](https://github.com/ehabmohamed/projects/blob/master/MSDS/Data%20Science%20-%20Final%20Project%20Presentation.pdf) (MS in Data Science Final Project Presentation)
 The project aims to predict video label(s) using the YouTube-8M dataset by implementing both Deep Neural Networks (DNN) and Mixture of Experts (MoE), as well as, Extreme Gradient Boosting (XGB) with Binary Relevance transformation.
 
 DNN and MoE are examined by tuning different parameters (i.e., no. of mixture of experts for MoE, no. of layers and neurons for DNN, regularization factor, learning rate, dropout keeping rate, and no. of steps).
